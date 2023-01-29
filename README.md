@@ -1,7 +1,8 @@
 # Connecting a Java Project to a DB using JDBC
 _This project has been made using Maven_.
 
-### Connecting to Microsoft SQL Server 
+### Connecting to Microsoft SQL Server
+_Make sure to enable TCP/IP connection._
 Using Microsoft SQL Server (MSQL Management Studio 18) - server: localhost, port: 1433 (default) - and using a certificate to connect securely (creating a self-designed one makes it up, make sure to add the JDBC authentication .dll file to your project path), install the MSS JDBC Driver (version [11.2.3](https://learn.microsoft.com/en-us/sql/connect/jdbc/release-notes-for-the-jdbc-driver?view=sql-server-ver16)) and add the JDK 17 compatible jar file to the project dependencies.
 
 ```java
