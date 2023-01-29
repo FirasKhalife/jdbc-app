@@ -20,7 +20,6 @@ Import the [MongoDriver](https://github.com/mongodb/mongo-jdbc-driver/blob/maste
 For more clarity, the collection used and screenshots of the query's results can be found as PNG images in the resources folder.
 
 ## Softwares and dependencies
-_Make sure to be able to run a Maven Project; an IDE would be helpful._
 ##### Microsoft SQL Server
 - Microsoft SQL Server Management Studio 18
 - Microsoft SQL Server JDBC Driver (11.2.3.jre17 + mssql-jdbc_auth-11.2.3)
